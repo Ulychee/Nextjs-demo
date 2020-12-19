@@ -5,7 +5,7 @@ export default function Home() {
   return (
     <>
       ddddd
-    
+      <img src="test.jpg"/>
     </>
   )
 }
